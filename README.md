@@ -1,3 +1,5 @@
+Gifs should be 320x240 and no more than 10mb in size, otherwise the screen probably won't be able to handle it.
+
 # Previews:
 
 Anime Driving:
